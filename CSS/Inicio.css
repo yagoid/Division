@@ -1,0 +1,160 @@
+body{
+	background-color: #212121;
+}
+@font-face{
+	font-family: smileandwave; 
+	src: url(fuentes/smileandwave.ttf);
+}
+.general{
+	
+}
+.sup{
+	background-color: #212121;
+	height: 65px;
+	/*height: 50px;*/
+	color: beige;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.Logo{
+	float: left;
+	font-size: 19px;
+}
+.Izq{
+	float: left;
+	font-size: 19px;
+}
+.Der{
+	text-align: right;
+}
+.centro{
+	background-image: url(img/evolution.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 101%;
+	background-color: beige;
+	padding-top: 15px;
+	/*height: 230px;*/
+	width: 40%;
+	height: 44%;
+	text-align: center;
+	color: beige;
+	/*font-size: 790%;*/
+	font-size: 84px;
+	font-family: smileandwave;
+	float: left;
+}
+.centroIzq{
+	background-color: beige;
+	padding-top: 15px;
+	text-align: right;
+	height: 44%;
+	width: 30%;
+	color: black;
+	font-size: 84px;
+	font-family: smileandwave;
+	float: left;
+}
+.centroDer{
+	background-color: beige;
+	padding-top: 15px;
+	text-align: left;
+	color: black;
+	height: 44%;
+	width: 30%;
+	font-size: 84px;
+	font-family: smileandwave;
+	float: left;
+}
+.centroInf{
+	background-color: #212121;
+	padding-top: 13px;
+	height:	60px;
+	color: beige;
+	text-align: center;
+	font-size: 35px;
+	font-family: fantasy;
+	/*border-style: solid;
+	border-color: black;*/
+}
+.centroInf:hover{
+	font-size: 40px;
+	background-color: #414141;
+}
+a{
+	color: beige;
+	text-decoration:none
+}
+.inf1{
+	background-image: url(img/Quienes_somos.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	text-align: center;
+	width: 25%;
+	/*height: 205px;*/
+	height: 31%;
+	float: left;
+	padding-top: 15px;
+	color: beige;
+	font-size: 25px;
+	font-family: fantasy;
+}
+.inf1:hover{
+	font-size: 40px;
+}
+.inf2{
+	background-image: url(img/technology2.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	text-align: right;
+	text-align: center;
+	width: 25%;
+	/*height: 120px;*/
+	height: 31%;
+	float: left;
+	padding-top: 15px;
+	font-size: 25px;
+	font-family: fantasy;
+	color: beige;
+}
+.inf2:hover{
+	font-size: 40px;
+}
+.inf3{
+	background-image: url(img/huella.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	text-align: center;
+	width: 25%;
+	/*height: 120px;*/
+	height: 31%;
+	float: left;
+	padding-top: 15px;
+	font-size: 25px;
+	font-family: fantasy;
+	color: beige;
+}
+.inf3:hover{
+	font-size: 40px;
+}
+.inf4{
+	background-image: url(img/ubicacion.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	text-align: center;
+	width: 25%;
+	/*height: 205px;*/
+	height: 31%;
+	padding-top: 15px;
+	font-size: 25px;
+	font-family: fantasy;
+	color: beige;
+	float: right;
+}
+.inf4:hover{
+	font-size: 40px;
+}

@@ -1,0 +1,85 @@
+body{
+	background-image: url(img/fondoClaro.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+@font-face{
+	font-family: VarsityTeam; 
+	src: url(fuentes/VarsityTeam.otf);
+}
+.general{
+	padding-right: 100px;
+	padding-left:100px;
+}
+.sup{
+	background-color: #212121;
+	height: 46px;
+	color: beige;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.izq{
+	float: left;
+	font-size: 19px;
+}
+.der{
+	font-size: 13px;
+	text-align: center;
+	padding-right: 200px;
+	font-family: VarsityTeam; 
+	font-size: 27px;
+}
+a{
+	color: beige;
+	text-decoration:none;
+	margin-left: 50px;
+}
+hr{
+	margin-top: 50px;
+}
+.principales{
+	color: #EFEFEF;
+	padding-top: 40px;
+	height: 200px;
+	font-size: 25px;
+	font-family: fantasy;
+}
+.imagenes1{
+	padding-left: 70px;
+	padding-top: 40px;
+}
+.secundarios{
+	color: #EFEFEF;
+	padding-top: 70px;
+	height: 200px;
+	font-size: 25px;
+	font-family: fantasy;
+}
+.imagenes2{
+	padding-left: 70px;
+	padding-top: 10px;
+}
+.terciarios{
+	color: #EFEFEF;
+	padding-top: 70px;
+	height: 200px;
+	font-size: 25px;
+	font-family: fantasy;
+}
+.imagenes3{
+	padding-left: 70px;
+	padding-top: 10px;
+}
+.otros{
+	color: #EFEFEF;
+	padding-top: 70px;
+	height: 200px;
+	font-size: 25px;
+	font-family: fantasy;
+}
+.imagenes4{
+	padding-left: 70px;
+	padding-top: 10px;
+}

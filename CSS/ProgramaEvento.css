@@ -1,0 +1,88 @@
+body{
+	background-image: url(img/fondoRojo.jpg);
+	background-position: center;
+	background-repeat: repeat-y;
+	background-size: 100% 100%;
+}
+@font-face{
+	font-family: VarsityTeam; 
+	src: url(fuentes/VarsityTeam.otf);
+}
+.general{
+	padding-right: 100px;
+	padding-left:100px;
+}
+.sup{
+	background-color: #212121;
+	height: 46px;
+	color: beige;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.izq{
+	float: left;
+	font-size: 19px;
+}
+.der{
+	font-size: 13px;
+	text-align: center;
+	padding-right: 200px;
+	font-family: VarsityTeam; 
+	font-size: 27px;
+}
+a{
+	color: beige;
+	text-decoration:none;
+}
+hr{
+	text-align: left;
+}
+.hora1{
+	padding-top: 40px;
+	padding-left: 100px;
+	font-size: 16px;
+	font-family: arial;
+	color: beige;
+	padding-bottom: 30px;
+}
+.hora2{
+	padding-top: 40px;
+	padding-left: 100px;
+	font-size: 16px;
+	font-family: arial;
+	color: beige;
+	padding-bottom: 30px;
+}
+.hora3{
+	padding-top: 40px;
+	padding-left: 100px;
+	font-size: 16px;
+	font-family: arial;
+	color: beige;
+	padding-bottom: 30px;
+}
+.hora4{
+	padding-top: 40px;
+	padding-left: 100px;
+	font-size: 16px;
+	font-family: arial;
+	color: beige;
+	padding-bottom: 30px;
+}
+.hora5{
+	padding-top: 40px;
+	padding-left: 100px;
+	font-size: 16px;
+	font-family: arial;
+	color: beige;
+	padding-bottom: 30px;
+}
+.hora6{
+	padding-top: 40px;
+	padding-left: 100px;
+	font-size: 16px;
+	font-family: arial;
+	color: beige;
+	padding-bottom: 30px;
+}

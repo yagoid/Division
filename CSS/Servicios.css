@@ -1,0 +1,131 @@
+body{
+	background-image: url(img/fondoGris.jpg);
+	background-position: center;
+	background-repeat:repeat-y;
+	background-size: 100% 100%;
+	height: 1100px;;
+}
+@font-face{
+	font-family: VarsityTeam; 
+	src: url(fuentes/VarsityTeam.otf);
+}
+.general{
+	padding-right: 80px;
+	padding-left:80px;
+}
+.sup{
+	background-color: #212121;
+	/*height: 45px;*/
+	height: 46px;
+	color: beige;
+	padding-top: 22px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.izq{
+	float: left;
+	font-size: 19px;
+}
+.der{
+	font-size: 19px;
+	text-align: center;
+	padding-right: 200px;
+	font-family: VarsityTeam; 
+	font-size: 27px;
+}
+a{
+	color: beige;
+	text-decoration:none
+}
+.texto{
+	padding-top: 40px;
+	font-size: 16px;
+	font-family: arial;
+	color: beige;
+	padding-bottom: 35px;
+	text-align: center;
+}
+.ter{
+	text-align: center;
+}
+.imagenes{
+	max-width: 1300px; 
+    height: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.uno{
+	background-image: url(img/bala.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	text-align: center;
+	height: 450px;
+	width: 306px;
+	/*height: 205px;*/
+	float: left;
+	padding-top: 80px;
+	color: beige;
+	font-size: 30px;
+	font-family: fantasy;
+}
+.dos{
+	background-image: url(img/calidad.jpeg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	text-align: center;
+	height: 450px;
+	width: 306px;
+	/*height: 205px;*/
+	float: left;
+	padding-top: 80px;
+	color: beige;
+	font-size: 30px;
+	font-family: fantasy;
+}
+.tres{
+	background-image: url(img/fiabilidad.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	text-align: center;
+	height: 450px;
+	width: 306px;
+	/*height: 205px;*/
+	float: left;
+	padding-top: 80px;
+	color: beige;
+	font-size: 30px;
+	font-family: fantasy;
+}
+.cuatro{
+	background-image: url(img/creatividad.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	text-align: center;
+	height: 450px;
+	width: 306px;
+	/*height: 205px;*/
+	float: left;
+	padding-top: 80px;
+	color: beige;
+	font-size: 30px;
+	font-family: fantasy;
+}
+.salto{
+	clear:both	
+}
+.campusParty{
+	padding-top: 18px;
+	font-size: 35px;
+	font-family: VarsityTeam;
+	text-align: center;
+	color: beige;
+	padding-bottom: 20px;
+}
+.campusParty:hover{
+	color: #CB4B4B;
+}

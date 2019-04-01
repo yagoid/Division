@@ -1,0 +1,78 @@
+.titulo{
+  text-align:center;
+  font-size: 27px;   
+}
+
+img{
+   width: 350px;
+   height: 310px;    
+}
+
+body{
+	
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.general{
+    margin-left: 150px;
+    padding-top: 50px;
+    display:inline-block;
+}
+.sup{
+	background-color: #212121;
+	/height: 45px;/
+	height: 46px;
+	color: beige;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.izq{
+	float: left;
+	font-size: 19px;
+}
+.der{
+	font-size: 13px;
+	text-align: center;
+	padding-right: 200px;
+	font-family: fantasy; 
+	font-size: 27px;
+}
+a{
+	color: beige;
+	text-decoration:none;
+}
+.imagen1{
+    float: left;
+    margin-left: 20px;
+}
+.imagen2{
+    float: left;
+    margin-left: 20px;
+}
+.imagen3{
+    float: left;
+    margin-left: 20px;
+}
+.imagen4{
+    float: left;
+    margin-left: 20px;
+}
+
+.texto1{
+    float:left;
+    margin-left: 20px;
+}
+.texto2{
+    float:left;
+    margin-left: 20px;
+}
+.texto3{
+    float:left;
+    margin-left: 20px;
+}
+.texto4{
+    float:left;
+    margin-left: 20px;
+}

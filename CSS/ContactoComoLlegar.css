@@ -1,0 +1,46 @@
+.general{
+	padding-right: 100px;
+	padding-left:100px;
+    padding-top: 225px;
+}
+.sup{
+	background-color: #212121;
+	height: 51px;
+	color: beige;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.izq{
+	float: left;
+	font-size: 19px;
+}
+.der{
+	padding-top: 15px;
+	text-align: center;
+	padding-right: 150px;
+	font-family: fantasy; 
+	font-size: 35px;
+}
+a{
+	color: beige;
+	text-decoration:none;
+}
+.direcciontelefono{
+    font-size: 13px;
+    font-family: serif;
+    color: beige; 
+    text-align: right;
+    padding-top: 120px;
+    padding-bottom: 150px;
+}
+
+.mapa{
+    float: left;
+}
+
+.divisionc{
+    font-size: 13px;
+    font-family: serif;
+    color: beige; 
+    text-align: center;
+}
